@@ -1,0 +1,4 @@
+video-object-matcher
+
+A Python-based computer vision system that detects, tracks, and matches objects across multiple videos. Uses YOLOv8 for object detection, ByteTrack for tracking, and deep learning embeddings for appearance-based matching. Features include clothing color detection and person re-identification.
+
